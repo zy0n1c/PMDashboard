@@ -1,0 +1,19 @@
+{
+  "name": "PMDashboard",
+  "version": "1.0.0",
+  "description": "Project Management Dashboard v1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zy0n1c/PMDashboard.git"
+  },
+  "author": "Legacy Group Holdings, LLC",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/zy0n1c/PMDashboard/issues"
+  },
+  "homepage": "https://github.com/zy0n1c/PMDashboard#readme"
+}
